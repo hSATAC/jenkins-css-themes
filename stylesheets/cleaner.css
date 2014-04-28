@@ -8,7 +8,7 @@ a, a:visited, a:active, a:hover, a:link {
 
 #top-panel {
    background-image: none;
-   background: black;
+   background: #5cc020;
 }
 
 #top-panel img:first-child {
@@ -23,4 +23,5 @@ a, a:visited, a:active, a:hover, a:link {
    background: none;
    background-image: none;
    background-position: bottom left;
+   background-repeat: no-repeat;
 }
