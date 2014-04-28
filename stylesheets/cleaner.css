@@ -21,7 +21,7 @@ a, a:visited, a:active, a:hover, a:link {
 
 #main-table {
    background: none;
-   background-image: none;
+   background-image: url(../images/cat.jpg);
    background-position: bottom left;
    background-repeat: no-repeat;
 }
